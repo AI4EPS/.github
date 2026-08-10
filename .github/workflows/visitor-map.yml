@@ -1,0 +1,64 @@
+name: Visitor map
+
+on:
+  schedule:
+    # Monthly. The figure shows a cumulative total since 2022, so a week of new
+    # traffic barely moves it, and each run rewrites a ~260 KB JPEG. Unlike the
+    # traffic job there is no expiring window to chase: GA serves the full
+    # history on demand, so a missed run costs nothing.
+    - cron: "17 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: visitor-map
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # cartopy ships a manylinux wheel, so no GEOS/PROJ system packages are
+          # needed. scipy is not optional: cartopy's image reprojection imports
+          # it (or pykdtree) and fails at render time without it.
+          pip install pandas pycountry google-analytics-data cartopy scipy \
+                      pillow matplotlib
+
+      - name: Render
+        env:
+          GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
+          GA_SA_KEY: ${{ secrets.GA_SA_KEY }}
+        run: |
+          if [ -z "$GA_SA_KEY" ]; then
+            echo "::error::GA_SA_KEY is not set — cannot render the map"
+            exit 1
+          fi
+          printf '%s' "$GA_SA_KEY" > "$RUNNER_TEMP/ga.json"
+          GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/ga.json" \
+            python scripts/visitor_map.py
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Named paths only — never `git add -A`. profile/README.md is not listed
+          # because it is static: the figure's numbers live inside the JPEG.
+          git add profile/assets/visitors-relief-light.jpg data/visitors-history.csv
+          if git diff --staged --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "chore: refresh visitor map"
+            git push
+          fi
