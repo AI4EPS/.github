@@ -94,7 +94,12 @@ def main():
     listing = repos(s, args.org)
     if not args.include_forks:
         listing = [r for r in listing if not r["fork"]]
-    print(f"{len(listing)} repos in {args.org}")
+    # Public only. This CSV is committed to a PUBLIC repo, so including private
+    # repos would publish their names, existence and activity levels.
+    private = [r["name"] for r in listing if r["private"]]
+    listing = [r for r in listing if not r["private"]]
+    print(f"{len(listing)} public repos in {args.org} "
+          f"({len(private)} private skipped)")
 
     rows, denied = [], []
     for repo in sorted(listing, key=lambda r: r["name"].lower()):
