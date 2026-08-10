@@ -1,9 +1,5 @@
 ## Welcome to AI4EPS: Artificial Intelligence (AI) for Earth and Planetary Science (EPS) at UC Berkeley
 
-Open-source machine learning and deep learning tools for earthquake monitoring,
-seismology, and Earth science, from the Department of Earth and Planetary Science
-at the University of California, Berkeley.
-
 <img alt="Global map of cities using AI4EPS open-source machine learning tools for earthquake monitoring and seismology" src="assets/visitors-relief-light.jpg" width="100%">
 
 ![](https://hit.yhype.me/github/profile?user_id=75299929)
