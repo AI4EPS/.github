@@ -40,6 +40,7 @@ repo,date,metric,count,uniques
 .github,2026-09-02,clones,5,3
 .github,2026-09-03,clones,2,2
 .github,2026-09-04,clones,4,2
+.github,2026-09-05,clones,18,11
 .github,2026-07-26,views,0,0
 .github,2026-07-27,views,0,0
 .github,2026-07-28,views,0,0
@@ -81,6 +82,7 @@ repo,date,metric,count,uniques
 .github,2026-09-02,views,0,0
 .github,2026-09-03,views,0,0
 .github,2026-09-04,views,0,0
+.github,2026-09-05,views,0,0
 ADLoc,2026-07-26,clones,1,1
 ADLoc,2026-07-27,clones,0,0
 ADLoc,2026-07-28,clones,3,2
@@ -122,6 +124,7 @@ ADLoc,2026-09-01,clones,1,1
 ADLoc,2026-09-02,clones,0,0
 ADLoc,2026-09-03,clones,1,1
 ADLoc,2026-09-04,clones,3,3
+ADLoc,2026-09-05,clones,0,0
 ADLoc,2026-07-26,views,0,0
 ADLoc,2026-07-27,views,0,0
 ADLoc,2026-07-28,views,1,1
@@ -163,6 +166,7 @@ ADLoc,2026-09-01,views,2,2
 ADLoc,2026-09-02,views,0,0
 ADLoc,2026-09-03,views,0,0
 ADLoc,2026-09-04,views,0,0
+ADLoc,2026-09-05,views,1,1
 ADTomo,2026-07-26,clones,0,0
 ADTomo,2026-07-27,clones,1,1
 ADTomo,2026-07-28,clones,2,2
@@ -456,6 +460,7 @@ DAS_Seismology_Workshop,2026-09-01,clones,9,5
 DAS_Seismology_Workshop,2026-09-02,clones,0,0
 DAS_Seismology_Workshop,2026-09-03,clones,0,0
 DAS_Seismology_Workshop,2026-09-04,clones,55,54
+DAS_Seismology_Workshop,2026-09-05,clones,3,3
 DAS_Seismology_Workshop,2026-07-26,views,1,1
 DAS_Seismology_Workshop,2026-07-27,views,6,2
 DAS_Seismology_Workshop,2026-07-28,views,2,2
@@ -497,6 +502,7 @@ DAS_Seismology_Workshop,2026-09-01,views,2,2
 DAS_Seismology_Workshop,2026-09-02,views,4,2
 DAS_Seismology_Workshop,2026-09-03,views,12,5
 DAS_Seismology_Workshop,2026-09-04,views,73,13
+DAS_Seismology_Workshop,2026-09-05,views,14,4
 DeepDenoiser,2026-07-26,clones,1,1
 DeepDenoiser,2026-07-27,clones,4,4
 DeepDenoiser,2026-07-28,clones,10,8
@@ -538,6 +544,7 @@ DeepDenoiser,2026-09-01,clones,9,8
 DeepDenoiser,2026-09-02,clones,0,0
 DeepDenoiser,2026-09-03,clones,10,7
 DeepDenoiser,2026-09-04,clones,1,1
+DeepDenoiser,2026-09-05,clones,2,2
 DeepDenoiser,2026-07-26,views,10,7
 DeepDenoiser,2026-07-27,views,8,5
 DeepDenoiser,2026-07-28,views,10,8
@@ -579,6 +586,7 @@ DeepDenoiser,2026-09-01,views,16,10
 DeepDenoiser,2026-09-02,views,8,8
 DeepDenoiser,2026-09-03,views,13,7
 DeepDenoiser,2026-09-04,views,7,6
+DeepDenoiser,2026-09-05,views,15,4
 EPS130_Seismology,2026-07-26,clones,0,0
 EPS130_Seismology,2026-07-27,clones,0,0
 EPS130_Seismology,2026-07-28,clones,0,0
@@ -788,6 +796,7 @@ EPS88_PyEarth,2026-09-01,clones,49,20
 EPS88_PyEarth,2026-09-02,clones,3,3
 EPS88_PyEarth,2026-09-03,clones,1,1
 EPS88_PyEarth,2026-09-04,clones,3,3
+EPS88_PyEarth,2026-09-05,clones,0,0
 EPS88_PyEarth,2026-07-26,views,1,1
 EPS88_PyEarth,2026-07-27,views,0,0
 EPS88_PyEarth,2026-07-28,views,0,0
@@ -829,6 +838,7 @@ EPS88_PyEarth,2026-09-01,views,3,1
 EPS88_PyEarth,2026-09-02,views,0,0
 EPS88_PyEarth,2026-09-03,views,3,2
 EPS88_PyEarth,2026-09-04,views,0,0
+EPS88_PyEarth,2026-09-05,views,0,0
 EQNet,2026-07-26,clones,0,0
 EQNet,2026-07-27,clones,11,5
 EQNet,2026-07-28,clones,5,4
@@ -954,6 +964,7 @@ Earthquake_Catalog_Workshop,2026-09-01,clones,2,2
 Earthquake_Catalog_Workshop,2026-09-02,clones,10,9
 Earthquake_Catalog_Workshop,2026-09-03,clones,1,1
 Earthquake_Catalog_Workshop,2026-09-04,clones,1,1
+Earthquake_Catalog_Workshop,2026-09-05,clones,1,1
 Earthquake_Catalog_Workshop,2026-07-26,views,5,3
 Earthquake_Catalog_Workshop,2026-07-27,views,2,1
 Earthquake_Catalog_Workshop,2026-07-28,views,7,2
@@ -995,6 +1006,7 @@ Earthquake_Catalog_Workshop,2026-09-01,views,2,1
 Earthquake_Catalog_Workshop,2026-09-02,views,0,0
 Earthquake_Catalog_Workshop,2026-09-03,views,2,2
 Earthquake_Catalog_Workshop,2026-09-04,views,0,0
+Earthquake_Catalog_Workshop,2026-09-05,views,9,1
 Earthquake_Deep_Catalog,2026-07-26,clones,0,0
 Earthquake_Deep_Catalog,2026-07-27,clones,0,0
 Earthquake_Deep_Catalog,2026-07-28,clones,0,0
@@ -1036,6 +1048,7 @@ Earthquake_Deep_Catalog,2026-09-01,clones,1,1
 Earthquake_Deep_Catalog,2026-09-02,clones,0,0
 Earthquake_Deep_Catalog,2026-09-03,clones,2,2
 Earthquake_Deep_Catalog,2026-09-04,clones,2,2
+Earthquake_Deep_Catalog,2026-09-05,clones,2,2
 Earthquake_Deep_Catalog,2026-07-26,views,0,0
 Earthquake_Deep_Catalog,2026-07-27,views,0,0
 Earthquake_Deep_Catalog,2026-07-28,views,0,0
@@ -1077,6 +1090,7 @@ Earthquake_Deep_Catalog,2026-09-01,views,0,0
 Earthquake_Deep_Catalog,2026-09-02,views,0,0
 Earthquake_Deep_Catalog,2026-09-03,views,0,0
 Earthquake_Deep_Catalog,2026-09-04,views,1,1
+Earthquake_Deep_Catalog,2026-09-05,views,0,0
 GaMMA,2026-07-26,clones,1927,457
 GaMMA,2026-07-27,clones,1992,486
 GaMMA,2026-07-28,clones,1514,423
@@ -1118,6 +1132,7 @@ GaMMA,2026-09-01,clones,967,407
 GaMMA,2026-09-02,clones,1698,466
 GaMMA,2026-09-03,clones,854,352
 GaMMA,2026-09-04,clones,1472,550
+GaMMA,2026-09-05,clones,1291,455
 GaMMA,2026-07-26,views,16,7
 GaMMA,2026-07-27,views,5,5
 GaMMA,2026-07-28,views,4,3
@@ -1159,6 +1174,7 @@ GaMMA,2026-09-01,views,17,8
 GaMMA,2026-09-02,views,15,5
 GaMMA,2026-09-03,views,5,5
 GaMMA,2026-09-04,views,6,4
+GaMMA,2026-09-05,views,5,4
 INVerse,2026-07-26,clones,0,0
 INVerse,2026-07-27,clones,0,0
 INVerse,2026-07-28,clones,1,1
@@ -1200,6 +1216,7 @@ INVerse,2026-09-01,clones,1,1
 INVerse,2026-09-02,clones,0,0
 INVerse,2026-09-03,clones,0,0
 INVerse,2026-09-04,clones,1,1
+INVerse,2026-09-05,clones,0,0
 INVerse,2026-07-26,views,0,0
 INVerse,2026-07-27,views,0,0
 INVerse,2026-07-28,views,0,0
@@ -1241,6 +1258,7 @@ INVerse,2026-09-01,views,0,0
 INVerse,2026-09-02,views,0,0
 INVerse,2026-09-03,views,0,0
 INVerse,2026-09-04,views,0,0
+INVerse,2026-09-05,views,0,0
 PhaseNet,2026-07-26,clones,10,7
 PhaseNet,2026-07-27,clones,11,8
 PhaseNet,2026-07-28,clones,9,8
@@ -1282,6 +1300,7 @@ PhaseNet,2026-09-01,clones,49,23
 PhaseNet,2026-09-02,clones,27,26
 PhaseNet,2026-09-03,clones,17,17
 PhaseNet,2026-09-04,clones,95,11
+PhaseNet,2026-09-05,clones,8,7
 PhaseNet,2026-07-26,views,39,24
 PhaseNet,2026-07-27,views,45,27
 PhaseNet,2026-07-28,views,66,18
@@ -1323,6 +1342,7 @@ PhaseNet,2026-09-01,views,41,22
 PhaseNet,2026-09-02,views,41,25
 PhaseNet,2026-09-03,views,50,26
 PhaseNet,2026-09-04,views,56,21
+PhaseNet,2026-09-05,views,14,10
 QuakeFlow,2026-07-26,clones,2,2
 QuakeFlow,2026-07-27,clones,1,1
 QuakeFlow,2026-07-28,clones,1,1
@@ -1364,6 +1384,7 @@ QuakeFlow,2026-09-01,clones,5,3
 QuakeFlow,2026-09-02,clones,2,2
 QuakeFlow,2026-09-03,clones,2,2
 QuakeFlow,2026-09-04,clones,1,1
+QuakeFlow,2026-09-05,clones,0,0
 QuakeFlow,2026-07-26,views,10,7
 QuakeFlow,2026-07-27,views,6,3
 QuakeFlow,2026-07-28,views,6,4
@@ -1405,6 +1426,7 @@ QuakeFlow,2026-09-01,views,7,4
 QuakeFlow,2026-09-02,views,2,2
 QuakeFlow,2026-09-03,views,2,2
 QuakeFlow,2026-09-04,views,23,3
+QuakeFlow,2026-09-05,views,1,1
 ZipDAS,2026-07-26,clones,0,0
 ZipDAS,2026-07-27,clones,0,0
 ZipDAS,2026-07-28,clones,1,1
@@ -1614,6 +1636,7 @@ datasets,2026-09-01,clones,0,0
 datasets,2026-09-02,clones,0,0
 datasets,2026-09-03,clones,0,0
 datasets,2026-09-04,clones,0,0
+datasets,2026-09-05,clones,0,0
 datasets,2026-07-26,views,0,0
 datasets,2026-07-27,views,0,0
 datasets,2026-07-28,views,0,0
@@ -1655,6 +1678,7 @@ datasets,2026-09-01,views,0,0
 datasets,2026-09-02,views,0,0
 datasets,2026-09-03,views,0,0
 datasets,2026-09-04,views,0,0
+datasets,2026-09-05,views,0,0
 homepage,2026-07-26,clones,0,0
 homepage,2026-07-27,clones,0,0
 homepage,2026-07-28,clones,0,0
@@ -1696,6 +1720,7 @@ homepage,2026-09-01,clones,2,2
 homepage,2026-09-02,clones,1,1
 homepage,2026-09-03,clones,0,0
 homepage,2026-09-04,clones,0,0
+homepage,2026-09-05,clones,0,0
 homepage,2026-07-26,views,0,0
 homepage,2026-07-27,views,1,1
 homepage,2026-07-28,views,0,0
@@ -1737,6 +1762,7 @@ homepage,2026-09-01,views,2,1
 homepage,2026-09-02,views,1,1
 homepage,2026-09-03,views,10,2
 homepage,2026-09-04,views,0,0
+homepage,2026-09-05,views,2,1
 models,2026-07-26,clones,0,0
 models,2026-07-27,clones,0,0
 models,2026-07-28,clones,0,0
@@ -1778,6 +1804,7 @@ models,2026-09-01,clones,1,1
 models,2026-09-02,clones,0,0
 models,2026-09-03,clones,0,0
 models,2026-09-04,clones,1,1
+models,2026-09-05,clones,0,0
 models,2026-07-26,views,0,0
 models,2026-07-27,views,0,0
 models,2026-07-28,views,0,0
@@ -1819,6 +1846,7 @@ models,2026-09-01,views,14,1
 models,2026-09-02,views,0,0
 models,2026-09-03,views,0,0
 models,2026-09-04,views,0,0
+models,2026-09-05,views,0,0
 papers,2026-07-26,clones,0,0
 papers,2026-07-27,clones,0,0
 papers,2026-07-28,clones,1,1
@@ -1860,6 +1888,7 @@ papers,2026-09-01,clones,0,0
 papers,2026-09-02,clones,0,0
 papers,2026-09-03,clones,0,0
 papers,2026-09-04,clones,0,0
+papers,2026-09-05,clones,0,0
 papers,2026-07-26,views,0,0
 papers,2026-07-27,views,0,0
 papers,2026-07-28,views,0,0
@@ -1901,6 +1930,7 @@ papers,2026-09-01,views,0,0
 papers,2026-09-02,views,0,0
 papers,2026-09-03,views,0,0
 papers,2026-09-04,views,0,0
+papers,2026-09-05,views,0,0
 software,2026-07-26,clones,1,1
 software,2026-07-27,clones,0,0
 software,2026-07-28,clones,0,0
