@@ -2351,6 +2351,8 @@ EQNet,2026-11-11,clones,6,6
 EQNet,2026-11-12,clones,3,3
 EQNet,2026-11-13,clones,11,11
 EQNet,2026-11-14,clones,31,7
+EQNet,2026-11-15,clones,56,12
+EQNet,2026-11-16,clones,4,4
 EQNet,2026-07-26,views,6,3
 EQNet,2026-07-27,views,16,7
 EQNet,2026-07-28,views,7,3
@@ -2463,6 +2465,8 @@ EQNet,2026-11-11,views,11,3
 EQNet,2026-11-12,views,3,3
 EQNet,2026-11-13,views,33,5
 EQNet,2026-11-14,views,5,3
+EQNet,2026-11-15,views,5,2
+EQNet,2026-11-16,views,7,4
 Earthquake_Catalog_Workshop,2026-07-26,clones,0,0
 Earthquake_Catalog_Workshop,2026-07-27,clones,0,0
 Earthquake_Catalog_Workshop,2026-07-28,clones,4,3
@@ -3591,6 +3595,8 @@ QuakeFlow,2026-11-11,clones,586,59
 QuakeFlow,2026-11-12,clones,11,8
 QuakeFlow,2026-11-13,clones,7,6
 QuakeFlow,2026-11-14,clones,9,8
+QuakeFlow,2026-11-15,clones,3,3
+QuakeFlow,2026-11-16,clones,1,1
 QuakeFlow,2026-07-26,views,10,7
 QuakeFlow,2026-07-27,views,6,3
 QuakeFlow,2026-07-28,views,6,4
@@ -3703,6 +3709,8 @@ QuakeFlow,2026-11-11,views,9,4
 QuakeFlow,2026-11-12,views,14,3
 QuakeFlow,2026-11-13,views,5,3
 QuakeFlow,2026-11-14,views,4,3
+QuakeFlow,2026-11-15,views,3,2
+QuakeFlow,2026-11-16,views,6,3
 ZipDAS,2026-07-26,clones,0,0
 ZipDAS,2026-07-27,clones,0,0
 ZipDAS,2026-07-28,clones,1,1
@@ -4487,6 +4495,8 @@ homepage,2026-11-11,clones,1,1
 homepage,2026-11-12,clones,2,1
 homepage,2026-11-13,clones,2,2
 homepage,2026-11-14,clones,0,0
+homepage,2026-11-15,clones,1,1
+homepage,2026-11-16,clones,1,1
 homepage,2026-07-26,views,0,0
 homepage,2026-07-27,views,1,1
 homepage,2026-07-28,views,0,0
@@ -4599,6 +4609,8 @@ homepage,2026-11-11,views,2,1
 homepage,2026-11-12,views,1,1
 homepage,2026-11-13,views,2,1
 homepage,2026-11-14,views,3,1
+homepage,2026-11-15,views,1,1
+homepage,2026-11-16,views,2,2
 models,2026-07-26,clones,0,0
 models,2026-07-27,clones,0,0
 models,2026-07-28,clones,0,0
