@@ -114,6 +114,7 @@ repo,date,metric,count,uniques
 .github,2026-11-15,clones,24,14
 .github,2026-11-16,clones,3,3
 .github,2026-11-17,clones,6,5
+.github,2026-11-18,clones,1,1
 .github,2026-07-26,views,0,0
 .github,2026-07-27,views,0,0
 .github,2026-07-28,views,0,0
@@ -229,6 +230,7 @@ repo,date,metric,count,uniques
 .github,2026-11-15,views,0,0
 .github,2026-11-16,views,0,0
 .github,2026-11-17,views,0,0
+.github,2026-11-18,views,1,1
 ADLoc,2026-07-26,clones,1,1
 ADLoc,2026-07-27,clones,0,0
 ADLoc,2026-07-28,clones,3,2
@@ -344,6 +346,7 @@ ADLoc,2026-11-14,clones,83,33
 ADLoc,2026-11-15,clones,52,26
 ADLoc,2026-11-16,clones,23,14
 ADLoc,2026-11-17,clones,14,14
+ADLoc,2026-11-18,clones,9,2
 ADLoc,2026-07-26,views,0,0
 ADLoc,2026-07-27,views,0,0
 ADLoc,2026-07-28,views,1,1
@@ -459,6 +462,7 @@ ADLoc,2026-11-14,views,40,3
 ADLoc,2026-11-15,views,0,0
 ADLoc,2026-11-16,views,11,5
 ADLoc,2026-11-17,views,0,0
+ADLoc,2026-11-18,views,10,3
 ADTomo,2026-07-26,clones,0,0
 ADTomo,2026-07-27,clones,1,1
 ADTomo,2026-07-28,clones,2,2
@@ -574,6 +578,7 @@ ADTomo,2026-11-14,clones,0,0
 ADTomo,2026-11-15,clones,2,2
 ADTomo,2026-11-16,clones,0,0
 ADTomo,2026-11-17,clones,1,1
+ADTomo,2026-11-18,clones,0,0
 ADTomo,2026-07-26,views,0,0
 ADTomo,2026-07-27,views,0,0
 ADTomo,2026-07-28,views,2,2
@@ -689,6 +694,7 @@ ADTomo,2026-11-14,views,0,0
 ADTomo,2026-11-15,views,8,2
 ADTomo,2026-11-16,views,0,0
 ADTomo,2026-11-17,views,1,1
+ADTomo,2026-11-18,views,0,0
 ADTomo.jl,2026-07-26,clones,2,2
 ADTomo.jl,2026-07-27,clones,0,0
 ADTomo.jl,2026-07-28,clones,0,0
@@ -804,6 +810,7 @@ ADTomo.jl,2026-11-14,clones,1,1
 ADTomo.jl,2026-11-15,clones,1,1
 ADTomo.jl,2026-11-16,clones,1,1
 ADTomo.jl,2026-11-17,clones,0,0
+ADTomo.jl,2026-11-18,clones,0,0
 ADTomo.jl,2026-07-26,views,0,0
 ADTomo.jl,2026-07-27,views,0,0
 ADTomo.jl,2026-07-28,views,0,0
@@ -919,6 +926,7 @@ ADTomo.jl,2026-11-14,views,0,0
 ADTomo.jl,2026-11-15,views,0,0
 ADTomo.jl,2026-11-16,views,0,0
 ADTomo.jl,2026-11-17,views,0,0
+ADTomo.jl,2026-11-18,views,0,0
 CCTorch,2026-07-26,clones,0,0
 CCTorch,2026-07-27,clones,0,0
 CCTorch,2026-07-28,clones,3,3
@@ -1034,6 +1042,7 @@ CCTorch,2026-11-14,clones,4,4
 CCTorch,2026-11-15,clones,1,1
 CCTorch,2026-11-16,clones,0,0
 CCTorch,2026-11-17,clones,28,13
+CCTorch,2026-11-18,clones,10,4
 CCTorch,2026-07-26,views,2,1
 CCTorch,2026-07-27,views,0,0
 CCTorch,2026-07-28,views,3,2
@@ -1149,6 +1158,35 @@ CCTorch,2026-11-14,views,0,0
 CCTorch,2026-11-15,views,1,1
 CCTorch,2026-11-16,views,1,1
 CCTorch,2026-11-17,views,8,3
+CCTorch,2026-11-18,views,2,1
+DASNet,2026-11-07,clones,0,0
+DASNet,2026-11-08,clones,0,0
+DASNet,2026-11-09,clones,0,0
+DASNet,2026-11-10,clones,0,0
+DASNet,2026-11-11,clones,0,0
+DASNet,2026-11-12,clones,0,0
+DASNet,2026-11-13,clones,0,0
+DASNet,2026-11-14,clones,0,0
+DASNet,2026-11-15,clones,0,0
+DASNet,2026-11-16,clones,0,0
+DASNet,2026-11-17,clones,0,0
+DASNet,2026-11-18,clones,0,0
+DASNet,2026-11-19,clones,0,0
+DASNet,2026-11-20,clones,0,0
+DASNet,2026-11-07,views,0,0
+DASNet,2026-11-08,views,0,0
+DASNet,2026-11-09,views,0,0
+DASNet,2026-11-10,views,0,0
+DASNet,2026-11-11,views,0,0
+DASNet,2026-11-12,views,0,0
+DASNet,2026-11-13,views,0,0
+DASNet,2026-11-14,views,0,0
+DASNet,2026-11-15,views,0,0
+DASNet,2026-11-16,views,0,0
+DASNet,2026-11-17,views,0,0
+DASNet,2026-11-18,views,0,0
+DASNet,2026-11-19,views,0,0
+DASNet,2026-11-20,views,0,0
 DAS_Seismology_Workshop,2026-07-26,clones,2,2
 DAS_Seismology_Workshop,2026-07-27,clones,16,6
 DAS_Seismology_Workshop,2026-07-28,clones,2,2
@@ -1264,6 +1302,7 @@ DAS_Seismology_Workshop,2026-11-14,clones,2,2
 DAS_Seismology_Workshop,2026-11-15,clones,5,4
 DAS_Seismology_Workshop,2026-11-16,clones,0,0
 DAS_Seismology_Workshop,2026-11-17,clones,2,1
+DAS_Seismology_Workshop,2026-11-18,clones,2,2
 DAS_Seismology_Workshop,2026-07-26,views,1,1
 DAS_Seismology_Workshop,2026-07-27,views,6,2
 DAS_Seismology_Workshop,2026-07-28,views,2,2
@@ -1379,6 +1418,7 @@ DAS_Seismology_Workshop,2026-11-14,views,0,0
 DAS_Seismology_Workshop,2026-11-15,views,3,3
 DAS_Seismology_Workshop,2026-11-16,views,0,0
 DAS_Seismology_Workshop,2026-11-17,views,9,6
+DAS_Seismology_Workshop,2026-11-18,views,0,0
 DeepDenoiser,2026-07-26,clones,1,1
 DeepDenoiser,2026-07-27,clones,4,4
 DeepDenoiser,2026-07-28,clones,10,8
@@ -1494,6 +1534,7 @@ DeepDenoiser,2026-11-14,clones,5,5
 DeepDenoiser,2026-11-15,clones,3,3
 DeepDenoiser,2026-11-16,clones,6,6
 DeepDenoiser,2026-11-17,clones,4,4
+DeepDenoiser,2026-11-18,clones,3,3
 DeepDenoiser,2026-07-26,views,10,7
 DeepDenoiser,2026-07-27,views,8,5
 DeepDenoiser,2026-07-28,views,10,8
@@ -1609,6 +1650,7 @@ DeepDenoiser,2026-11-14,views,4,3
 DeepDenoiser,2026-11-15,views,9,5
 DeepDenoiser,2026-11-16,views,7,6
 DeepDenoiser,2026-11-17,views,8,4
+DeepDenoiser,2026-11-18,views,2,2
 EPS130_Seismology,2026-07-26,clones,0,0
 EPS130_Seismology,2026-07-27,clones,0,0
 EPS130_Seismology,2026-07-28,clones,0,0
@@ -1724,6 +1766,7 @@ EPS130_Seismology,2026-11-14,clones,5,3
 EPS130_Seismology,2026-11-15,clones,1,1
 EPS130_Seismology,2026-11-16,clones,0,0
 EPS130_Seismology,2026-11-17,clones,2,2
+EPS130_Seismology,2026-11-18,clones,2,2
 EPS130_Seismology,2026-07-26,views,0,0
 EPS130_Seismology,2026-07-27,views,0,0
 EPS130_Seismology,2026-07-28,views,0,0
@@ -1839,6 +1882,7 @@ EPS130_Seismology,2026-11-14,views,0,0
 EPS130_Seismology,2026-11-15,views,0,0
 EPS130_Seismology,2026-11-16,views,0,0
 EPS130_Seismology,2026-11-17,views,2,2
+EPS130_Seismology,2026-11-18,views,2,2
 EPS207_Observational_Seismology,2026-07-26,clones,0,0
 EPS207_Observational_Seismology,2026-07-27,clones,0,0
 EPS207_Observational_Seismology,2026-07-28,clones,1,1
@@ -1955,6 +1999,7 @@ EPS207_Observational_Seismology,2026-11-15,clones,7,4
 EPS207_Observational_Seismology,2026-11-16,clones,0,0
 EPS207_Observational_Seismology,2026-11-17,clones,1,1
 EPS207_Observational_Seismology,2026-11-18,clones,1,1
+EPS207_Observational_Seismology,2026-11-19,clones,1,1
 EPS207_Observational_Seismology,2026-07-26,views,0,0
 EPS207_Observational_Seismology,2026-07-27,views,0,0
 EPS207_Observational_Seismology,2026-07-28,views,0,0
@@ -2071,6 +2116,7 @@ EPS207_Observational_Seismology,2026-11-15,views,0,0
 EPS207_Observational_Seismology,2026-11-16,views,2,2
 EPS207_Observational_Seismology,2026-11-17,views,6,4
 EPS207_Observational_Seismology,2026-11-18,views,27,3
+EPS207_Observational_Seismology,2026-11-19,views,1,1
 EPS88_PyEarth,2026-07-26,clones,0,0
 EPS88_PyEarth,2026-07-27,clones,0,0
 EPS88_PyEarth,2026-07-28,clones,0,0
@@ -2186,6 +2232,7 @@ EPS88_PyEarth,2026-11-14,clones,2,2
 EPS88_PyEarth,2026-11-15,clones,5,4
 EPS88_PyEarth,2026-11-16,clones,45,15
 EPS88_PyEarth,2026-11-17,clones,70,32
+EPS88_PyEarth,2026-11-18,clones,2,2
 EPS88_PyEarth,2026-07-26,views,1,1
 EPS88_PyEarth,2026-07-27,views,0,0
 EPS88_PyEarth,2026-07-28,views,0,0
@@ -2301,6 +2348,7 @@ EPS88_PyEarth,2026-11-14,views,0,0
 EPS88_PyEarth,2026-11-15,views,2,2
 EPS88_PyEarth,2026-11-16,views,7,3
 EPS88_PyEarth,2026-11-17,views,0,0
+EPS88_PyEarth,2026-11-18,views,2,2
 EQNet,2026-07-26,clones,0,0
 EQNet,2026-07-27,clones,11,5
 EQNet,2026-07-28,clones,5,4
@@ -2416,6 +2464,7 @@ EQNet,2026-11-14,clones,31,7
 EQNet,2026-11-15,clones,56,12
 EQNet,2026-11-16,clones,4,4
 EQNet,2026-11-17,clones,11,10
+EQNet,2026-11-18,clones,10,8
 EQNet,2026-07-26,views,6,3
 EQNet,2026-07-27,views,16,7
 EQNet,2026-07-28,views,7,3
@@ -2531,6 +2580,7 @@ EQNet,2026-11-14,views,5,3
 EQNet,2026-11-15,views,5,2
 EQNet,2026-11-16,views,7,4
 EQNet,2026-11-17,views,26,4
+EQNet,2026-11-18,views,26,9
 Earthquake_Catalog_Workshop,2026-07-26,clones,0,0
 Earthquake_Catalog_Workshop,2026-07-27,clones,0,0
 Earthquake_Catalog_Workshop,2026-07-28,clones,4,3
@@ -2646,6 +2696,7 @@ Earthquake_Catalog_Workshop,2026-11-14,clones,8,8
 Earthquake_Catalog_Workshop,2026-11-15,clones,12,12
 Earthquake_Catalog_Workshop,2026-11-16,clones,17,16
 Earthquake_Catalog_Workshop,2026-11-17,clones,14,14
+Earthquake_Catalog_Workshop,2026-11-18,clones,11,9
 Earthquake_Catalog_Workshop,2026-07-26,views,5,3
 Earthquake_Catalog_Workshop,2026-07-27,views,2,1
 Earthquake_Catalog_Workshop,2026-07-28,views,7,2
@@ -2761,6 +2812,7 @@ Earthquake_Catalog_Workshop,2026-11-14,views,3,2
 Earthquake_Catalog_Workshop,2026-11-15,views,0,0
 Earthquake_Catalog_Workshop,2026-11-16,views,0,0
 Earthquake_Catalog_Workshop,2026-11-17,views,0,0
+Earthquake_Catalog_Workshop,2026-11-18,views,0,0
 Earthquake_Deep_Catalog,2026-07-26,clones,0,0
 Earthquake_Deep_Catalog,2026-07-27,clones,0,0
 Earthquake_Deep_Catalog,2026-07-28,clones,0,0
@@ -2996,6 +3048,8 @@ GaMMA,2026-11-14,clones,25273,533
 GaMMA,2026-11-15,clones,16554,476
 GaMMA,2026-11-16,clones,11757,630
 GaMMA,2026-11-17,clones,10791,557
+GaMMA,2026-11-18,clones,20059,400
+GaMMA,2026-11-19,clones,17969,417
 GaMMA,2026-07-26,views,16,7
 GaMMA,2026-07-27,views,5,5
 GaMMA,2026-07-28,views,4,3
@@ -3111,6 +3165,8 @@ GaMMA,2026-11-14,views,46,8
 GaMMA,2026-11-15,views,6,3
 GaMMA,2026-11-16,views,11,5
 GaMMA,2026-11-17,views,3,2
+GaMMA,2026-11-18,views,9,5
+GaMMA,2026-11-19,views,6,5
 INVerse,2026-07-26,clones,0,0
 INVerse,2026-07-27,clones,0,0
 INVerse,2026-07-28,clones,1,1
@@ -3226,6 +3282,8 @@ INVerse,2026-11-14,clones,0,0
 INVerse,2026-11-15,clones,1,1
 INVerse,2026-11-16,clones,0,0
 INVerse,2026-11-17,clones,0,0
+INVerse,2026-11-18,clones,0,0
+INVerse,2026-11-19,clones,0,0
 INVerse,2026-07-26,views,0,0
 INVerse,2026-07-27,views,0,0
 INVerse,2026-07-28,views,0,0
@@ -3341,6 +3399,8 @@ INVerse,2026-11-14,views,0,0
 INVerse,2026-11-15,views,0,0
 INVerse,2026-11-16,views,0,0
 INVerse,2026-11-17,views,0,0
+INVerse,2026-11-18,views,0,0
+INVerse,2026-11-19,views,0,0
 PhaseNet,2026-07-26,clones,10,7
 PhaseNet,2026-07-27,clones,11,8
 PhaseNet,2026-07-28,clones,9,8
@@ -3456,6 +3516,7 @@ PhaseNet,2026-11-14,clones,31,29
 PhaseNet,2026-11-15,clones,234,119
 PhaseNet,2026-11-16,clones,49,39
 PhaseNet,2026-11-17,clones,116,83
+PhaseNet,2026-11-18,clones,213,117
 PhaseNet,2026-07-26,views,39,24
 PhaseNet,2026-07-27,views,45,27
 PhaseNet,2026-07-28,views,66,18
@@ -3571,6 +3632,7 @@ PhaseNet,2026-11-14,views,16,6
 PhaseNet,2026-11-15,views,17,11
 PhaseNet,2026-11-16,views,43,22
 PhaseNet,2026-11-17,views,24,17
+PhaseNet,2026-11-18,views,28,16
 QuakeFlow,2026-07-26,clones,2,2
 QuakeFlow,2026-07-27,clones,1,1
 QuakeFlow,2026-07-28,clones,1,1
@@ -3686,6 +3748,7 @@ QuakeFlow,2026-11-14,clones,9,8
 QuakeFlow,2026-11-15,clones,3,3
 QuakeFlow,2026-11-16,clones,1,1
 QuakeFlow,2026-11-17,clones,4,4
+QuakeFlow,2026-11-18,clones,351,10
 QuakeFlow,2026-07-26,views,10,7
 QuakeFlow,2026-07-27,views,6,3
 QuakeFlow,2026-07-28,views,6,4
@@ -3801,6 +3864,7 @@ QuakeFlow,2026-11-14,views,4,3
 QuakeFlow,2026-11-15,views,3,2
 QuakeFlow,2026-11-16,views,6,3
 QuakeFlow,2026-11-17,views,1,1
+QuakeFlow,2026-11-18,views,9,5
 ZipDAS,2026-07-26,clones,0,0
 ZipDAS,2026-07-27,clones,0,0
 ZipDAS,2026-07-28,clones,1,1
@@ -3916,6 +3980,7 @@ ZipDAS,2026-11-14,clones,2,2
 ZipDAS,2026-11-15,clones,1,1
 ZipDAS,2026-11-16,clones,2,2
 ZipDAS,2026-11-17,clones,0,0
+ZipDAS,2026-11-18,clones,1,1
 ZipDAS,2026-07-26,views,0,0
 ZipDAS,2026-07-27,views,0,0
 ZipDAS,2026-07-28,views,0,0
@@ -4031,6 +4096,7 @@ ZipDAS,2026-11-14,views,0,0
 ZipDAS,2026-11-15,views,0,0
 ZipDAS,2026-11-16,views,0,0
 ZipDAS,2026-11-17,views,0,0
+ZipDAS,2026-11-18,views,0,0
 ai4eps.github.io,2026-07-26,clones,0,0
 ai4eps.github.io,2026-07-27,clones,0,0
 ai4eps.github.io,2026-07-28,clones,0,0
@@ -4146,6 +4212,7 @@ ai4eps.github.io,2026-11-14,clones,0,0
 ai4eps.github.io,2026-11-15,clones,1,1
 ai4eps.github.io,2026-11-16,clones,1,1
 ai4eps.github.io,2026-11-17,clones,0,0
+ai4eps.github.io,2026-11-18,clones,0,0
 ai4eps.github.io,2026-07-26,views,0,0
 ai4eps.github.io,2026-07-27,views,0,0
 ai4eps.github.io,2026-07-28,views,0,0
@@ -4261,6 +4328,7 @@ ai4eps.github.io,2026-11-14,views,0,0
 ai4eps.github.io,2026-11-15,views,0,0
 ai4eps.github.io,2026-11-16,views,0,0
 ai4eps.github.io,2026-11-17,views,0,0
+ai4eps.github.io,2026-11-18,views,0,0
 datasets,2026-07-26,clones,1,1
 datasets,2026-07-27,clones,0,0
 datasets,2026-07-28,clones,0,0
@@ -4376,6 +4444,7 @@ datasets,2026-11-14,clones,0,0
 datasets,2026-11-15,clones,1,1
 datasets,2026-11-16,clones,0,0
 datasets,2026-11-17,clones,0,0
+datasets,2026-11-18,clones,0,0
 datasets,2026-07-26,views,0,0
 datasets,2026-07-27,views,0,0
 datasets,2026-07-28,views,0,0
@@ -4491,6 +4560,7 @@ datasets,2026-11-14,views,0,0
 datasets,2026-11-15,views,0,0
 datasets,2026-11-16,views,0,0
 datasets,2026-11-17,views,0,0
+datasets,2026-11-18,views,0,0
 homepage,2026-07-26,clones,0,0
 homepage,2026-07-27,clones,0,0
 homepage,2026-07-28,clones,0,0
@@ -4606,6 +4676,7 @@ homepage,2026-11-14,clones,0,0
 homepage,2026-11-15,clones,1,1
 homepage,2026-11-16,clones,1,1
 homepage,2026-11-17,clones,1,1
+homepage,2026-11-18,clones,1,1
 homepage,2026-07-26,views,0,0
 homepage,2026-07-27,views,1,1
 homepage,2026-07-28,views,0,0
@@ -4721,6 +4792,7 @@ homepage,2026-11-14,views,3,1
 homepage,2026-11-15,views,1,1
 homepage,2026-11-16,views,2,2
 homepage,2026-11-17,views,4,2
+homepage,2026-11-18,views,2,2
 models,2026-07-26,clones,0,0
 models,2026-07-27,clones,0,0
 models,2026-07-28,clones,0,0
@@ -4836,6 +4908,7 @@ models,2026-11-14,clones,1,1
 models,2026-11-15,clones,2,2
 models,2026-11-16,clones,0,0
 models,2026-11-17,clones,0,0
+models,2026-11-18,clones,1,1
 models,2026-07-26,views,0,0
 models,2026-07-27,views,0,0
 models,2026-07-28,views,0,0
@@ -4951,6 +5024,7 @@ models,2026-11-14,views,0,0
 models,2026-11-15,views,1,1
 models,2026-11-16,views,4,2
 models,2026-11-17,views,0,0
+models,2026-11-18,views,0,0
 papers,2026-07-26,clones,0,0
 papers,2026-07-27,clones,0,0
 papers,2026-07-28,clones,1,1
@@ -5066,6 +5140,7 @@ papers,2026-11-14,clones,0,0
 papers,2026-11-15,clones,3,2
 papers,2026-11-16,clones,0,0
 papers,2026-11-17,clones,1,1
+papers,2026-11-18,clones,0,0
 papers,2026-07-26,views,0,0
 papers,2026-07-27,views,0,0
 papers,2026-07-28,views,0,0
@@ -5181,6 +5256,7 @@ papers,2026-11-14,views,0,0
 papers,2026-11-15,views,0,0
 papers,2026-11-16,views,0,0
 papers,2026-11-17,views,0,0
+papers,2026-11-18,views,0,0
 software,2026-07-26,clones,1,1
 software,2026-07-27,clones,0,0
 software,2026-07-28,clones,0,0
@@ -5296,6 +5372,7 @@ software,2026-11-14,clones,2,1
 software,2026-11-15,clones,1,1
 software,2026-11-16,clones,1,1
 software,2026-11-17,clones,0,0
+software,2026-11-18,clones,0,0
 software,2026-07-26,views,0,0
 software,2026-07-27,views,0,0
 software,2026-07-28,views,0,0
@@ -5411,3 +5488,4 @@ software,2026-11-14,views,0,0
 software,2026-11-15,views,0,0
 software,2026-11-16,views,0,0
 software,2026-11-17,views,0,0
+software,2026-11-18,views,0,0
